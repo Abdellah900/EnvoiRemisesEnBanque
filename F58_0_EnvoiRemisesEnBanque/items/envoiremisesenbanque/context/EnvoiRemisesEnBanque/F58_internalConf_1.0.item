@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="tmpDir" prompt="tmpDir?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="outDir" prompt="outDir?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="csvAdValidees" prompt="csvAdValidees?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="nbJoursPrecedents" prompt="nbJoursPrecedents?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter comment="" name="codeBatch" prompt="codeBatch?" promptNeeded="false" type="id_String" value="EnvoiRemisesEnBanque"/>
+  <contextParameter comment="" name="logLevel" prompt="logLevel?" promptNeeded="false" type="id_String" value="TRACE"/>
+  <contextParameter comment="" name="csvAdDemandees" prompt="csvAdDemandees?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="generalConfFile" prompt="generalConfFile?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="csvAdRejetBf" prompt="csvAdRejetBf?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="csvJourneesDemandees" prompt="csvJourneesDemandees?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="csvRefTraceRejetNumCom" prompt="csvRefTraceRejetNumCom?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="csvAdRejetVegas" prompt="csvAdRejetVegas?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="sensReglement" prompt="sensReglement?" promptNeeded="false" type="id_String" value="REGLEMENT"/>
+  <contextParameter comment="" name="sensRemboursement" prompt="sensRemboursement?" promptNeeded="false" type="id_String" value="REMBOURSEMENT"/>
+  <contextParameter comment="" name="origineExtDuFlux" prompt="origineExtDuFlux?" promptNeeded="false" type="id_String" value="VEGAS"/>
+  <contextParameter comment="" name="initContext" prompt="initContext?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter comment="" name="journeeComplete" prompt="journeeComplete?" promptNeeded="false" type="id_Integer" value="0"/>
+</talendfile:ContextType>

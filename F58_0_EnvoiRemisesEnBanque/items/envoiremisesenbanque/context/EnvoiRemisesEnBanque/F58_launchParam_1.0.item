@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="internalConfFile" prompt="internalConfFile?" promptNeeded="false" type="id_String" value="E:/bestar/EnvoiRemisesEnBanque/conf/internal.conf"/>
+  <contextParameter comment="" name="logFile" prompt="logFile?" promptNeeded="false" type="id_String" value="E:/bestar/EnvoiRemisesEnBanque/log/EnvoiRemisesEnBanque.log"/>
+  <contextParameter comment="" name="journeeSession" prompt="journeeSession?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="creFile" prompt="creFile?" promptNeeded="false" type="id_String" value="E:/bestar/EnvoiRemisesEnBanque/cre/EnvoiRemisesEnBanque.cre"/>
+  <contextParameter comment="" name="statusFile" prompt="statusFile?" promptNeeded="false" type="id_String" value="E:/bestar/EnvoiRemisesEnBanque/log/EnvoiRemisesEnBanque.status"/>
+  <contextParameter comment="" name="traceFile" prompt="traceFile?" promptNeeded="false" type="id_String" value="E:/bestar/EnvoiRemisesEnBanque/log/EnvoiRemisesEnBanque.trace"/>
+</talendfile:ContextType>

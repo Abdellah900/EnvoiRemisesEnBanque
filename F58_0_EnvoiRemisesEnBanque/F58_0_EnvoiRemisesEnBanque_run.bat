@@ -1,0 +1,3 @@
+%~d0
+ cd %~dp0
+ java -Xms256M -Xmx1024M -cp ../lib/advancedPersistentLookupLib-1.0.jar;../lib/commons-collections-3.2.jar;../lib/dom4j-1.6.1.jar;../lib/external_sort.jar;../lib/jboss-serialization.jar;../lib/log4j-1.2.15.jar;../lib/ojdbc5.jar;../lib/talend-oracle-timestamptz.jar;../lib/talendcsv.jar;../lib/talend_file_enhanced_20070724.jar;../lib/tns.jar;../lib/trove.jar;../lib/systemRoutines.jar;../lib/userRoutines.jar;.;f58_0_envoiremisesenbanque_1_0.jar;f58_4_genererfichierfregate_1_0.jar;f58_3_chargerdonneesbancaires_0_1.jar;f58_2_chargerlistead_1_0.jar;f58_5_genererstatus_1_0.jar;f58_1_chargerconf_1_0.jar; envoiremisesenbanque.f58_0_envoiremisesenbanque_1_0.F58_0_EnvoiRemisesEnBanque --context=Default %* 
